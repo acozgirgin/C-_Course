@@ -1,0 +1,7 @@
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe.config
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\ClassMethodDemo\bin\Debug\ClassMethodDemo.pdb
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.AssemblyReference.cache
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\ClassMethodDemo\obj\Debug\ClassMethodDemo.exe
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\ClassMethodDemo\obj\Debug\ClassMethodDemo.pdb

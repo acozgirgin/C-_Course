@@ -1,0 +1,7 @@
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\UcuncuGunOdevler\bin\Debug\UcuncuGunOdevler.exe.config
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\UcuncuGunOdevler\bin\Debug\UcuncuGunOdevler.exe
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\UcuncuGunOdevler\bin\Debug\UcuncuGunOdevler.pdb
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\UcuncuGunOdevler\obj\Debug\UcuncuGunOdevler.csproj.AssemblyReference.cache
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\UcuncuGunOdevler\obj\Debug\UcuncuGunOdevler.csproj.CoreCompileInputs.cache
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\UcuncuGunOdevler\obj\Debug\UcuncuGunOdevler.exe
+C:\Users\s-ozg\source\repos\UcuncuGunOdevler\UcuncuGunOdevler\obj\Debug\UcuncuGunOdevler.pdb
