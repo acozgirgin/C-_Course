@@ -1,0 +1,7 @@
+C:\Users\s-ozg\source\repos\KodlamaKampı\DorduncuGunOdevler\bin\Debug\DorduncuGunOdevler.exe.config
+C:\Users\s-ozg\source\repos\KodlamaKampı\DorduncuGunOdevler\bin\Debug\DorduncuGunOdevler.exe
+C:\Users\s-ozg\source\repos\KodlamaKampı\DorduncuGunOdevler\bin\Debug\DorduncuGunOdevler.pdb
+C:\Users\s-ozg\source\repos\KodlamaKampı\DorduncuGunOdevler\obj\Debug\DorduncuGunOdevler.csproj.AssemblyReference.cache
+C:\Users\s-ozg\source\repos\KodlamaKampı\DorduncuGunOdevler\obj\Debug\DorduncuGunOdevler.csproj.CoreCompileInputs.cache
+C:\Users\s-ozg\source\repos\KodlamaKampı\DorduncuGunOdevler\obj\Debug\DorduncuGunOdevler.exe
+C:\Users\s-ozg\source\repos\KodlamaKampı\DorduncuGunOdevler\obj\Debug\DorduncuGunOdevler.pdb
